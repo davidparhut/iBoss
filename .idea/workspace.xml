@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6554f640-e398-4007-a2f8-0519a138bfc8" name="Changes" comment="" />
+    <list default="true" id="6554f640-e398-4007-a2f8-0519a138bfc8" name="Changes" comment="Перший запуск проєкту">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIREBASE_GUIDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIRESTORE_DATA_STRUCTURE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIRESTORE_SETUP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMAGES_GUIDE.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="davidparhut &lt;parhutdavid33@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -54,11 +65,35 @@
       <workItem from="1766861817565" duration="8000" />
       <workItem from="1766861826692" duration="1808000" />
       <workItem from="1766921769902" duration="7000" />
-      <workItem from="1766921828418" duration="753000" />
+      <workItem from="1766921828418" duration="4291000" />
     </task>
+    <task id="LOCAL-00001" summary="Перший запуск проєкту">
+      <option name="closed" value="true" />
+      <created>1766922633731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766922633731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Перший запуск проєкту" />
+    <option name="LAST_COMMIT_MESSAGE" value="Перший запуск проєкту" />
   </component>
 </project>
