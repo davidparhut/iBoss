@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6554f640-e398-4007-a2f8-0519a138bfc8" name="Changes" comment="Перший запуск проєкту">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIREBASE_GUIDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRESTORE_DATA_STRUCTURE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIRESTORE_SETUP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMAGES_GUIDE.md" beforeDir="false" />
+    <list default="true" id="6554f640-e398-4007-a2f8-0519a138bfc8" name="Changes" comment="06/01">
+      <change beforePath="$PROJECT_DIR$/ROUTING_GUIDE.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +19,20 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "davidparhut"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/davidparhut/iBoss.git",
+    "accountId": "1da436a9-b85d-4b18-82dd-b0980a419c84"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -33,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/macbook/Desktop/iboss-app/iboss-app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Desktop/iboss-app/iboss-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,7 +74,7 @@
       <workItem from="1766861817565" duration="8000" />
       <workItem from="1766861826692" duration="1808000" />
       <workItem from="1766921769902" duration="7000" />
-      <workItem from="1766921828418" duration="4291000" />
+      <workItem from="1766921828418" duration="5031000" />
     </task>
     <task id="LOCAL-00001" summary="Перший запуск проєкту">
       <option name="closed" value="true" />
@@ -75,7 +84,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766922633731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="06/01">
+      <option name="closed" value="true" />
+      <created>1767697713010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767697713010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="06/01">
+      <option name="closed" value="true" />
+      <created>1767697773012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767697773012</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Перший запуск проєкту" />
-    <option name="LAST_COMMIT_MESSAGE" value="Перший запуск проєкту" />
+    <MESSAGE value="06/01" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/01" />
   </component>
 </project>
